@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Bruno%20%7C%20Fullstack%20Developer&fontSize=32&fontAlignY=35&animation=fadeIn&desc=Bem-vindo%20ao%20meu%20GitHub!&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Cauan%20%7C%20Fullstack%20Developer&fontSize=32&fontAlignY=35&animation=fadeIn&desc=Bem-vindo%20ao%20meu%20GitHub!&descAlignY=55&descAlign=50"/>
 
 <!-- Typing effect -->
 <p align="center">
