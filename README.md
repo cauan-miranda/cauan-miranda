@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 Sobre mim
-👨‍ Bruno, tenho 25 anos  
+👨‍ Cauan, tenho 22 anos  
 ✈ Sou de Salvador - BA  
 📘 Cursando *Análise e Desenvolvimento de Sistemas*  
 🏢 Atualmente trabalho na *Secretaria de Educação do Estado da Bahia, desenvolvendo o sistema **AcompanhaTec*  
