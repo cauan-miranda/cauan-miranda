@@ -14,7 +14,7 @@
 📘 Cursando *Análise e Desenvolvimento de Sistemas*  
 🏢 Atualmente trabalho na *Secretaria de Educação do Estado da Bahia, desenvolvendo o sistema **AcompanhaTec*  
 🌱 Aprimorando conhecimentos em *Next.js*  
-📫 Contato: *brunomomoshiki@gmail.com*
+📫 Contato: cauanmiranda689@gmail.com
 
 ---
 
