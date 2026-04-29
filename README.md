@@ -9,10 +9,10 @@
 ---
 
 ## 👨‍💻 Sobre mim
-👨‍ Cauan, tenho 22 anos  
+👨‍ Cauan, tenho 23 anos  
 ✈ Sou de Salvador - BA  
 📘 Cursando *Análise e Desenvolvimento de Sistemas*  
-🏢 Atualmente trabalho na *Secretaria de Educação do Estado da Bahia, desenvolvendo o sistema **AcompanhaTec*  
+🏢 Atualmente trabalho na *Just Travel*
 🌱 Aprimorando conhecimentos em *Next.js*  
 📫 Contato: cauanmiranda689@gmail.com
 
