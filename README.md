@@ -12,7 +12,6 @@
 👨‍ Cauan, tenho 23 anos  
 ✈ Sou de Salvador - BA  
 📘 Cursando *Análise e Desenvolvimento de Sistemas*  
-🏢 Atualmente trabalho na      *Just Travel*
 🌱 Aprimorando conhecimentos em *Next.js*  
 📫 Contato: cauanmiranda689@gmail.com
 
