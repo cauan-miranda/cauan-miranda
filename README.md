@@ -30,11 +30,7 @@
 
 ---
 
-## 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinDja&show_icons=true&theme=dracula" alt="Estatísticas"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinDja&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+
 
 ---
 
